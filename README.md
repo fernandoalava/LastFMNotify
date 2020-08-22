@@ -7,8 +7,9 @@ https://store.kde.org/p/1135589/ KDE Store
 
 ## Requirements
 
-Python 2.7
-Python-QT Bindings
+- Amarok 1.0
+- Python 2.7
+- Python-QT Bindings
 
 ## Personal Note
 
