@@ -1,0 +1,2 @@
+name = LastFMNotify
+type = General
